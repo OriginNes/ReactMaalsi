@@ -9,10 +9,6 @@ function App() {
       <div className="App">
         <header className="App-header">
 <Router />
-          <form action="../../post" method="post"
-                className="form">
-            <button type="submit">Connected?</button>
-          </form>
         </header>
       </div>
   );
